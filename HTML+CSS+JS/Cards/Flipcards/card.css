@@ -1,0 +1,125 @@
+
+/* CSS CODE FOR CARD FLIP STARTS HERE */
+body {
+        font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+        display: flex;
+        position: relative;
+        flex-direction: row;
+        justify-content: center;
+}
+
+/* CSS CODE FOR CARD 1 START */
+
+.flip-card {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        perspective: 1000px;
+}
+
+.flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+        transform: rotateY(180deg) translate(45px,-28px);
+        width: 280px;
+        height: 280px;
+        cursor: pointer;
+}
+
+.flip-card-front,
+.flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        padding:10px;
+        font-size: 19px;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+}
+
+.flip-card-front {
+        background-color: #bbb;
+        color: black;
+}
+
+.flip-card-back {
+        background-color: #2980b9;
+        color: white;
+        transform: rotateY(180deg);
+}
+.flip-card1 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        padding-left: 60px;
+        perspective: 1000px;
+}
+
+.flip-card1:hover .flip-card-inner {
+        transform: rotateY(180deg)translate(20px,-29px);;
+        width: 280px;
+        height: 280px;
+        cursor: pointer;
+}
+/* CSS CODE FOR CARD 1 ENDS */
+
+
+/* CSS CODE FOR CARD 2 START */
+
+.flip-card2 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        padding-left: 60px;
+        perspective: 1000px;
+}
+
+.flip-card2:hover .flip-card-inner {
+        transform: rotateY(180deg)translate(20px,-28px);;
+        width: 280px;
+        height: 280px;
+        cursor: pointer;
+}
+
+/* CSS CODE FOR CARD 2 ENDS */
+
+.flip-card3 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        padding-left: 60px;
+        perspective: 1000px;
+}
+
+.flip-card3:hover .flip-card-inner {
+        transform: rotateY(180deg)translate(-10px,-28px);;
+        width: 280px;
+        height: 280px;
+        cursor: pointer;
+}
+        
+        /* BUTTON ON CARD STARTS */
+
+a.btn {
+        display: inline-block;
+        background-color: white;
+        padding: 5px 15px;
+        margin: 20px 0 0 0;
+        color: #000;
+        background-color: #ffff;
+        text-decoration: none;
+        border-radius: 3px;
+}
+/* BUTTON ON CARD ENDS */
+
+/* CSS CODE FOR CARD FLIP ENDS HERE */
