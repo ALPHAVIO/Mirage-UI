@@ -5,7 +5,6 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="style.css" />
-    <link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" media="screen">
   </head>
   <body>
     <!-- Remove these divs when using in project -->
@@ -14,14 +13,10 @@
     <div id="three"></div>
     <div id="four"></div>
 
-    <!-- <button onclick="toTop()" id="toTop"><strong>&#8679;</strong></button> -->
-    
-    <a href="" id="button">
-      <img src="E:\Mirage-UI\Arrowup.png" alt="" width="50"></a>
-    
+    <button onclick="toTop()" id="toTop"><strong>&#8679;</strong></button>
 
-     <script>
-      var button = document.getElementById("button");
+    <script>
+      var button = document.getElementById("toTop");
       var rootElement = document.documentElement;
 
       window.onscroll = function () {
@@ -45,7 +40,6 @@
           behavior: "smooth",
         });
       }
-    </script> 
-    
+    </script>
   </body>
 </html>

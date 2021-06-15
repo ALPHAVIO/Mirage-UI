@@ -6,35 +6,12 @@
 </head>
 <body>
 	<div class="container">
-		
-			<a href="#" >Home</a>
-			<a href="#" >About us</a>
-			<a href="#" >Contact</a>
-			<a href="#" >Menu bar</a>
-		
+		<ul>
+			<li><a href="#" class="snake">Home</a></li>
+			<li><a href="#" class="snake">About us</a></li>
+			<li><a href="#" class="snake">Contact</a></li>
+			<li><a href="#" class="snake">Menu bar</a></li>
+		</ul>
 	</div>
-
-	<script type="text/javascript">
-     const buttons =document.querySelectorAll('a');
-	 buttons.forEach(btn =>
-	 {
-		 btn.addEventListener('click',function(e)
-		 {
-			 let x =e.clientX - e.target.offsetLeft;
-			 let y =e.clientY - e.target.offsetTop;
-
-			 let ripples =document.createElement('span');
-			 ripples.style.left=x+'px';
-			 ripples.style.top=y+'px';
-			 this.appendChild(ripples);
-
-			 setTimeout(()=>
-			 {
-				 ripples.remove()
-			 },2000);
-		 });
-	 });
-		</script>
-
 </body>
 </html>
