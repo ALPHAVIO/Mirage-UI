@@ -4,6 +4,10 @@ Mouse enter color animation for button component
 # More about button animation
 The button component displays a solid color of the button on hover else only a hollow button with colored border.
 
+## Demo/GIF
+![Mouseentereffects](https://user-images.githubusercontent.com/66862837/122165800-5a47c000-ce96-11eb-8702-d24a8385ae47.gif)
+
+
 
 ## Setup instructions
 
