@@ -41,3 +41,6 @@
 -   [Timelines](Timelines)
 
     -   [Vertical Timeline](Timelines/VerticalTimeline)
+
+     [Reading Progress Bar](ReadingProgressBar)
+     
