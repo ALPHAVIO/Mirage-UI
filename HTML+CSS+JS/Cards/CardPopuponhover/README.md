@@ -8,8 +8,7 @@
 <h3>Pooja Bhoskar</h3>
  
  ## 🚀 Connect with me:
-
- <p align="center">
+ <p align="left">
  <a href = "https://www.linkedin.com/in/pooja-bhoskar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
