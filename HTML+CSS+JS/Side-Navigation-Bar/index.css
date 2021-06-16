@@ -1,0 +1,24 @@
+#one {
+  height: 100vh;
+  background-color: bisque;
+}
+#two {
+  height: 100vh;
+  background-color: aqua;
+}
+#three {
+  height: 100vh;
+  background-color: blue;
+}
+#four {
+  height: 100vh;
+  background-color: burlywood;
+}
+#five {
+  height: 100vh;
+  background-color: blueviolet;
+}
+.nav-item:hover {
+  background-color: rgba(0, 195, 255, 0.74);
+  border-radius: 5px;
+}

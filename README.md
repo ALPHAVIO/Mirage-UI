@@ -33,6 +33,12 @@
 
 <hr/>
 
+## 🛠️ Technology Stack -
+
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue" src="https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
+
+<hr/>
+
 ## :scroll: Instructions to follow while contributing -
 
 -   Make sure that with every design/ component should be added to a separate folder.
@@ -143,6 +149,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <hr>
+
+
+## Code of Conduct
+<p align="center">
+<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/CODE_OF_CONDUCT.md">
+</p>
+<h5 align="center"><b>Click to read</b></a>  
+
+## License 
+<p align="center">
+<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE"></p>
+<h5 align="center"><b>MIT License</b></a> 
+
 
 ## Stargazers over time 🌟
 

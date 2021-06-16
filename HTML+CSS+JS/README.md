@@ -21,6 +21,8 @@
     -   [Mouse Enter Button](Buttons/MouseenterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
     -   [Thin Button](Buttons/ThinButton)
+    -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
+    -   [Neumorphic Style Button](Buttons/NeumorphicStyleButton)
 
 -   [Cards](Cards)
 
@@ -34,6 +36,7 @@
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
+    -   [Side Navigation Bar](Side-Navigation-Bar/)
 
 -   [Text Animations](Text-Animations)
 
