@@ -10,7 +10,7 @@
  ## 🚀 Connect with me:
 
  <p align="center">
- <a href = "https://www.linkedin.com/in/pooja-bhoskar/"><img src="https://img.icons8.com/fluent/></a>
+ <a href = "https://www.linkedin.com/in/pooja-bhoskar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 
