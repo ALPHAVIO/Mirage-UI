@@ -1,7 +1,7 @@
 
 # GIF for Task:
 
-<img align="center" height="500" width="400" src="https://media.giphy.com/media/InNs51UoFQ5nS3gIXu/giphy.gif">
+<img align="center" height="500" width="900" src="https://media.giphy.com/media/InNs51UoFQ5nS3gIXu/giphy.gif">
 
 
 # Author
