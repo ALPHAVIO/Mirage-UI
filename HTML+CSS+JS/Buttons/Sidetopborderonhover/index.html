@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Side top border on hover</title>
+    <link rel="stylesheet" type="text/css" href="Style2.css" />
+  </head>
+  <body>
+    <div class="container">
+      <a href="#">Button</a>
+    </div>
+
+    <script type="text/javascript">
+      const buttons = document.querySelectorAll("a");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", function (e) {
+          let x = e.clientX - e.target.offsetLeft;
+          let y = e.clientY - e.target.offsetTop;
+
+          let ripples = document.createElement("span");
+          ripples.style.left = x + "px";
+          ripples.style.top = y + "px";
+          this.appendChild(ripples);
+
+          setTimeout(() => {
+            ripples.remove();
+          }, 2000);
+        });
+      });
+    </script>
+  </body>
+</html>

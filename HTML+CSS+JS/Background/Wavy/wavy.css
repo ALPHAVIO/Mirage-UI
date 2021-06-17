@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-image: linear-gradient(to bottom, rgb(116, 131, 218), transparent),
+    url(https://www.proofhub.com/wp-content/uploads/2019/07/Why-Bigger-Team-Isn%E2%80%99t-Always-the-Better-Choice.jpeg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+}
+.effect {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+.header-text {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-transform: capitalize;
+  font-size: 50px;
+}
+.header-text h1 {
+  color: transparent;
+  -webkit-text-stroke: 3px #000;
+}
+.box {
+  padding: 50px;
+  text-align: center;
+  font-family: cursive;
+}
+.box h1 {
+  font-family: monospace;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+.box p {
+  font-size: 20px;
+  line-height: 2;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>button</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <!-- Remove these divs when using in project -->
+    <div id="one"></div>
+    <div id="two"></div>
+    <div id="three"></div>
+    <div id="four"></div>
+
+    <button onclick="toTop()" id="toTop"><strong>&#8679;</strong></button>
+
+    <script>
+      var button = document.getElementById("toTop");
+      var rootElement = document.documentElement;
+
+      window.onscroll = function () {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          button.style.display = "block";
+        } else {
+          button.style.display = "none";
+        }
+      }
+
+      function toTop() {
+        rootElement.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      }
+    </script>
+  </body>
+</html>
