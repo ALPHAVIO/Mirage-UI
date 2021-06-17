@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -31,6 +31,16 @@
 -   We promote the community to contribute their designs and take designs from the repository for their community or personal projects.
 -   Our moto `No Contribution is small` and we appreciate each and every contribution from all of you.
 
+<hr/>
+
+<div align="center">
+
+## 🛠️ Technology Stack
+
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+
+</div>
+    
 <hr/>
 
 ## :scroll: Instructions to follow while contributing -
@@ -116,6 +126,7 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Pranav016"><img src="https://avatars.githubusercontent.com/u/54665036?s=460&u=1bff30cf96a1502a7abd09755f179197007bc345&v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mendiratta</b></sub></a><br /><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Code">💻</a><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/theBeginner86"><img src="https://avatars.githubusercontent.com/u/73700530?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Singh</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
@@ -132,6 +143,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/akshatvirmani"><img src="https://avatars.githubusercontent.com/u/77536248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Virmani</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshatvirmani" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.hackerrank.com/starrohan999"><img src="https://avatars.githubusercontent.com/u/71714344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Kumar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bhoskarpooja"><img src="https://avatars.githubusercontent.com/u/72018117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>POOJA BHOSKAR </b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=bhoskarpooja" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=bhoskarpooja" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/utkarsh1311"><img src="https://avatars.githubusercontent.com/u/70108561?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Utkarsh Maurya</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=utkarsh1311" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=utkarsh1311" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/urvashiparashar"><img src="https://avatars.githubusercontent.com/u/66862837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>urvashiparashar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -147,3 +161,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Stargazers over time 🌟
 
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
+
+<hr>
+
+<div align="center">
+    <h3><a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE">Licensed under MIT LICENSE</a></h3>
+    <h4><a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/CODE_OF_CONDUCT.md">CODE OF CONDUCT</a></h4>
+</div>

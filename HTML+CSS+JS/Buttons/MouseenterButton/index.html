@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Button Hover effects</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="Style2.css" />
+  </head>
+  <body>
+    <a href="#" class="btn"><span></span>Button</a>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+      $(document).ready(function (e) {
+        $(".btn").on("mouseenter", function (e) {
+          x = e.pageX - $(this).offset().left;
+          y = e.pageY - $(this).offset().top;
+          $(this).find("span").css({ top: y, left: x });
+        });
+
+        $(".btn").on("mouseout", function (e) {
+          x = e.pageX - $(this).offset().left;
+          y = e.pageY - $(this).offset().top;
+          $(this).find(".span").css({ top: y, left: x });
+        });
+      });
+    </script>
+  </body>
+</html>
