@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -33,11 +33,11 @@
 
 <hr/>
 
-## 🛠️ Technology Stack -
-
 <div align="center">
 
-<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue" src="https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
+## 🛠️ Technology Stack
+
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 
 </div>
     
@@ -143,6 +143,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/akshatvirmani"><img src="https://avatars.githubusercontent.com/u/77536248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Virmani</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshatvirmani" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.hackerrank.com/starrohan999"><img src="https://avatars.githubusercontent.com/u/71714344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Kumar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bhoskarpooja"><img src="https://avatars.githubusercontent.com/u/72018117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>POOJA BHOSKAR </b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=bhoskarpooja" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=bhoskarpooja" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/utkarsh1311"><img src="https://avatars.githubusercontent.com/u/70108561?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Utkarsh Maurya</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=utkarsh1311" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=utkarsh1311" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/urvashiparashar"><img src="https://avatars.githubusercontent.com/u/66862837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>urvashiparashar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/akshikamudgal"><img src="https://avatars.githubusercontent.com/u/66902249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akshikamudgal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Code">💻</a></td>
   </tr>
 </table>
 

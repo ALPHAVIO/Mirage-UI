@@ -10,6 +10,7 @@
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
     -   [Smooth Scroll](Background/SmoothScroll)
+    -   [Leaves Motion Background Effect](Background/LeavesMotionBackgroundEffect)
 
 -   [Buttons](Buttons)
 
@@ -18,7 +19,7 @@
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
     -   [Scroll To Top Button](Buttons/scrollToTopButton)
     -   [Glowing Gradient](Buttons/Glowinggradient)
-    -   [Mouse Enter Button](Buttons/MouseenterButton)
+    -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
     -   [Thin Button](Buttons/ThinButton)
     -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
@@ -27,9 +28,8 @@
 -   [Cards](Cards)
 
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
-        [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
-     
-      - [Carousel](Cards/Carouselcomponent)
+    -   [Carousel](Cards/Carouselcomponent)
+    -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
 
 -   [Forms](Forms)
 
@@ -39,7 +39,7 @@
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
-    -   [Side Navigation Bar](Side-Navigation-Bar/)
+    -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
 
 -   [Text Animations](Text-Animations)
 
