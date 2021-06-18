@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](assets/Mirage.gif)
+![Logo](https://user-images.githubusercontent.com/57994923/122451778-279ce500-cfc6-11eb-9c3f-47b27082c521.gif)
 
 ## About-
 
