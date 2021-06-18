@@ -1,6 +1,6 @@
 <div align="center">
 
-# :milky_way: Mirage-UI
+![alt text](https://user-images.githubusercontent.com/57994923/122451778-279ce500-cfc6-11eb-9c3f-47b27082c521.gif)
 
 ## About-
 
