@@ -43,7 +43,7 @@
     
 -   [Notifications](Notifications)
 
-      -   [Hide and Seek Notification](Notifications/Hide-and-seek-notification)
+      -   [Hide and Seek Notification](Notifications/Hide-and-seek-notifications)
       
 -   [Text Animations](Text-Animations)
 
