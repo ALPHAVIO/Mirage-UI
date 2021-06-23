@@ -6,7 +6,7 @@
 
 
 
-https://user-images.githubusercontent.com/84903641/123066844-0dcc2980-d42e-11eb-8470-63d73710d9b0.gif
+![Hide and Seek feature](https://user-images.githubusercontent.com/84903641/123068338-6cde6e00-d42f-11eb-9e0b-2409ebae3792.gif)
 
  
 # Author
