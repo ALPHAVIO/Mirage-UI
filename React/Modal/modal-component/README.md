@@ -5,7 +5,7 @@ Modal component in React using react-hooks and styled-components.
 
 <div align="center">
 
-(https://user-images.githubusercontent.com/69676297/123072101-e0ce4580-d432-11eb-9242-ff7451bd977b.mp4)
+https://user-images.githubusercontent.com/69676297/123072101-e0ce4580-d432-11eb-9242-ff7451bd977b.mp4
 
 </div>
 
