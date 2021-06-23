@@ -28,9 +28,14 @@
 -   [Cards](Cards)
 
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
-    -   [Carousel](Cards/Carouselcomponent)
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
+    -   [Carousel](Cards/Carouselcomponent)
+-   [Carousels](Carousel)
+    -   [Card Carousel Component](Carousel/CardCarousel)
 
+-   [Scrollspy](Scrollspy)
+    -   [Scrollspy](Scrollspy)
+    
 -   [Forms](Forms)
 
     -   [Star Rating System](Forms/StarRatingSystem)
@@ -53,3 +58,5 @@
 -   [Timelines](Timelines)
 
     -   [Vertical Timeline](Timelines/VerticalTimeline)
+    -   [Reading Progress Bar](ReadingProgressBar)
+     

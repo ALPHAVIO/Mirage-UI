@@ -1,0 +1,19 @@
+body {
+  position: relative;
+}
+#item1 {
+  height: 100vh;
+  background-color: aqua;
+}
+#item2 {
+  height: 100vh;
+  background-color: blue;
+}
+#item3 {
+  height: 100vh;
+  background-color: brown;
+}
+#item4 {
+  height: 100vh;
+  background-color: beige;
+}

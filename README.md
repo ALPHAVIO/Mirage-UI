@@ -1,6 +1,6 @@
 <div align="center">
 
-# :milky_way: Mirage-UI
+![Logo](./assets/MIRAGE.gif)
 
 ## About-
 
@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -127,6 +127,7 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
   <tr>
     <td align="center"><a href="https://github.com/Pranav016"><img src="https://avatars.githubusercontent.com/u/54665036?s=460&u=1bff30cf96a1502a7abd09755f179197007bc345&v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mendiratta</b></sub></a><br /><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Code">💻</a><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/theBeginner86"><img src="https://avatars.githubusercontent.com/u/73700530?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Singh</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Ayush0730"><img src="https://avatars.githubusercontent.com/u/68139755?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Jain</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
@@ -148,7 +149,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/urvashiparashar"><img src="https://avatars.githubusercontent.com/u/66862837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>urvashiparashar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=urvashiparashar" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/akshikamudgal"><img src="https://avatars.githubusercontent.com/u/66902249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akshikamudgal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/akshikamudgal"><img src="https://avatars.githubusercontent.com/u/66902249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akshikamudgal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Sanyam17-beep"><img src="https://avatars.githubusercontent.com/u/84903641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanyam17-beep</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Documentation">📖</a></td>
   </tr>
 </table>
 

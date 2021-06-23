@@ -79,7 +79,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/66902249?v=4",
       "profile": "https://github.com/akshikamudgal",
       "contributions": [
-        "code"
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Sanyam17-beep",
+      "name": "Sanyam17-beep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84903641?v=4",
+      "profile": "https://github.com/Sanyam17-beep",
+      "contributions": [
+        "code",
+        "doc"
       ]
     }
   ],
