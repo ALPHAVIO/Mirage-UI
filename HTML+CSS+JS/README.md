@@ -40,7 +40,11 @@
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+    
+-   [Notifications](Notifications)
 
+      -   [Hide and Seek Notification](Notifications/Hide-and-seek-notification)
+      
 -   [Text Animations](Text-Animations)
 
     -   [Number Counter Animation](Text-Animations/NumberCounterAnimation)
