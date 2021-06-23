@@ -29,7 +29,7 @@
 
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
-    -   [Carousel](Cards/Carouselcomponent)
+  
 -   [Carousels](Carousel)
     -   [Card Carousel Component](Carousel/CardCarousel)
 
