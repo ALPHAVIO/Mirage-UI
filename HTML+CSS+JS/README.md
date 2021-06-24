@@ -3,7 +3,7 @@
 ## Table of contents -
 -   [Animation](Animation)
 
-    -   [SVG bounce component](Animation/SVG Bounce animation)
+    -   [SVG bounce component](Animation)
 
 -   [Background](Background)
 
