@@ -1,6 +1,9 @@
 # HTML+CSS+JS components -
 
 ## Table of contents -
+-   [Animation](Animation)
+
+    -   [SVG bounce component](Animation/SVG Bounce animation)
 
 -   [Background](Background)
 
