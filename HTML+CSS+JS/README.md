@@ -35,6 +35,9 @@
 
 -   [Scrollspy](Scrollspy)
     -   [Scrollspy](Scrollspy)
+   
+-   [Smooth Scroll](Smooth-Scroll)
+    -   [Smooth Scroll](Smooth-Scroll)
     
 -   [Forms](Forms)
 
