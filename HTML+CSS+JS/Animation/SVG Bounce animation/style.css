@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img{
+    position: absolute;
+    right:41%;
+    top:35%;
+    animation:bounce 2s linear 0s infinite;
+}
+@keyframes bounce {
+    0%{
+        transform: translateY(0px);
+    }
+ 
+    50%{
+        transform: translateY(17px);
+    }
+    
+    100%{
+        transform: translateY(0px);
+    }
+}
