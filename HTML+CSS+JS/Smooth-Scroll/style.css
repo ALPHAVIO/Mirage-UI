@@ -1,0 +1,21 @@
+#item1 {
+  height: 100vh;
+  background-color: aqua;
+}
+#item2 {
+  height: 100vh;
+  background-color: blue;
+}
+#item3 {
+  height: 100vh;
+  background-color: brown;
+}
+#item4 {
+  height: 100vh;
+  background-color: beige;
+}
+.nav-link:hover
+{
+    background-color:rgba(100, 148, 237, 0.555);
+    border-radius: 5px;
+}
