@@ -44,6 +44,10 @@
     -   [Star Rating System](Forms/StarRatingSystem)
     -   [Non-responsive Sliding Animation Form](Forms/Non-responsiveSlidingAnimationForm)
 
+-   [Image-Animations](Image-Animations)
+
+    -   [Image Bounce Animation](Image-Animations/ImageBounceAnimation)
+
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
