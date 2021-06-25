@@ -2,6 +2,10 @@
 
 ## Table of contents -
 
+-   [Animation](Animation)
+
+    -   [SVG Bounce Animation Component](Animation)
+
 -   [Background](Background)
 
     -   [Animate.css](Background/Animate.css)
