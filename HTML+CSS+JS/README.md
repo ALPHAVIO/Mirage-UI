@@ -2,9 +2,9 @@
 
 ## Table of contents -
 
--   [Animation](Animation)
+-   [Image-Animations](Animation)
 
-    -   [SVG Bounce Animation Component](Animation)
+    -   [SVG Bounce Animation](Animation)
 
 -   [Background](Background)
 
