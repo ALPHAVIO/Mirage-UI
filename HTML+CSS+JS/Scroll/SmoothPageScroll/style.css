@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#fullpage {
+  height: 100vh;
+  overflow: hidden;
+}
+#fullpage section {
+  height: 100vh;
+  overflow: hidden;
+}
+#fullpage section:nth-child(1) {
+  background-color: red;
+}
+#fullpage section:nth-child(2) {
+  background-color: green;
+}
+#fullpage section:nth-child(3) {
+  background-color: blue;
+}
+.content {
+  height: 200px;
+}

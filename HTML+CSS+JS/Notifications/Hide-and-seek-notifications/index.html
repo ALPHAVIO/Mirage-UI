@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Warning Alert Notification | CodingNepal</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  </head>
+  <body>
+    <button>L</button>
+    <div class="alert hide">
+      <span class="msg"
+        >Participant at LGM-SOC'21 Lorem ipsum dolor sit, amet consectetur
+        adipisicing elit. Temporibus cumque blanditiis tempora labore
+        reprehenderit suscipit beatae eius. Laboriosam, voluptates.
+        Deserunt?</span
+      >
+      <div class="close-btn">
+        <span class="fas fa-times"></span>
+      </div>
+    </div>
+    <script>
+      $("button").click(function () {
+        setTimeout(function () {
+          $(".alert").addClass("show");
+          $(".alert").removeClass("hide");
+          $(".alert").addClass("showAlert");
+        }, 1000);
+
+        $("button").addClass("hide");
+      });
+      $(".close-btn").click(function () {
+        setTimeout(function () {
+          $("button").addClass("show");
+          $("button").removeClass("hide");
+        }, 1000);
+        $(".alert").removeClass("show");
+        $(".alert").addClass("hide");
+      });
+    </script>
+  </body>
+</html>
