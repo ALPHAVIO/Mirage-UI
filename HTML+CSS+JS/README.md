@@ -5,6 +5,7 @@
 -   [Background](Background)
 
     -   [Animate.css](Background/Animate.css)
+    -   [Background-motion-mouse-move](Background/Background-motion-mouse-move)
     -   [Fake Loader](Background/FakeLoader)
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
