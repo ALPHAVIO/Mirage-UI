@@ -1,0 +1,9 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-icon-button {
+  text-align: justify;
+  display: flex;
+  margin-right: 3em;
+}
