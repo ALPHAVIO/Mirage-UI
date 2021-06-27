@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: 100vh;
+    background: url(abstract.png);
+    overflow:hidden;
+}
+h2{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+    font-size:4rem;
+}
+p{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+    font-size:2rem;
+}

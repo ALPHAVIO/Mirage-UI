@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  
+    <section><div class="parent">
+      <h2>LGM-SOC'21</h2>
+      <p>Participant At LGM-Soc'21</p>
+    </div></section>
+    <script>
+    const section = document.getElementsByTagName('section')[0];
+
+    section.addEventListener('mousemove', (e) =>{
+      const moveX = (e.pageX * -1 / 15);
+      const moveY = (e.pageY * -1 / 15);
+
+      section.style.backgroundPosition = moveX + 'px ' + moveY + 'px';
+    });
+</script>
+</body>
+</html>
