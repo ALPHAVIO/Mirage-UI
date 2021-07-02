@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+#d-wrapper {
+  background-color: #fff;
+}
+#d-wrapper * {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100vw;
+  height: 90vh;
+}
+#d-wrapper .zig-zag-top:before {
+  z-index: 1;
+  background: linear-gradient(
+      -30deg,
+      #1ba1e2 150px,
+      red 150px,
+      blue 150px,
+      transparent 0
+    ),
+    linear-gradient(30deg, #1ba1e2 150px, transparent 0);
+  background-position: left top;
+  background-repeat: repeat-x;
+  background-size: 120px 172px;
+  content: "";
+  display: block;
+
+  height: 65px;
+  width: 100%;
+
+  position: relative;
+  bottom: 64px;
+  left: 0;
+}
+
+#d-wrapper .zig-zag-top {
+  background: #1ba1e2;
+}
