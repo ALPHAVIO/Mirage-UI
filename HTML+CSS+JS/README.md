@@ -32,7 +32,11 @@
 -   [Carousels](Carousel)
 
     -   [Card Carousel Component](Carousel/CardCarousel)
-   
+
+-   [Zig-Zag Cut Design](Zig-ZagCutDesign)
+
+    -   [Zig-Zag Cut Design](Zig-ZagCutDesign)
+ 
 -   [Scroll](Scroll)
 
     -   [Smooth Scroll](Scroll/Smooth-Scroll)
