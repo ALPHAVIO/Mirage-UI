@@ -10,6 +10,7 @@
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
     -   [Leaves Motion Background Effect](Background/LeavesMotionBackgroundEffect)
+    -   [Zig Zag Cut Design](Background/Zig-Zag-Cut-Design)
 
 -   [Buttons](Buttons)
 
