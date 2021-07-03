@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -151,6 +151,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/akshikamudgal"><img src="https://avatars.githubusercontent.com/u/66902249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akshikamudgal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Sanyam17-beep"><img src="https://avatars.githubusercontent.com/u/84903641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanyam17-beep</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/puneetkaur2929"><img src="https://avatars.githubusercontent.com/u/80326308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>puneetkaur2929</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=puneetkaur2929" title="Code">💻</a></td>
   </tr>
 </table>
 

@@ -32,6 +32,10 @@
 -   [Carousels](Carousel)
 
     -   [Card Carousel Component](Carousel/CardCarousel)
+
+-   [Drag and Drop](Drag-&-Drop-feature)
+
+    -   [Drag and Drop feature](Drag-&-Drop-feature/Drag&DropCarousel)
    
 -   [Scroll](Scroll)
 
