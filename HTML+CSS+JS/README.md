@@ -73,6 +73,6 @@
 -   [Timelines](Timelines)
 
     -   [Vertical Timeline](Timelines/VerticalTimeline)
-    -   [Reading Progress Bar](ReadingProgressBar)
     -   [TimeLineComponent](Timelines/TimeLineComponent)
+    -   [Reading Progress Bar](Timelines/ReadingProgressBar)
      
