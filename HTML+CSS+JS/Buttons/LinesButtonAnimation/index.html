@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: sans-serif;
+            background-color: #111;
+        }
+
+        .copyright {
+            position: absolute;
+            bottom: 0;
+        }
+
+        .copyright a {
+            text-decoration: none;
+            color: #56e006;
+        }
+
+        .copyright a:hover {
+            text-decoration: underline;
+        }
+
+        .button {
+            position: relative;
+            padding: 1em 1.5em;
+            border: none;
+            background-color: transparent;
+            cursor: pointer;
+            outline: none;
+            font-size: 18px;
+            margin: 1em 0.8em;
+        }
+
+        .button.effect2 {
+            color: rgb(243, 191, 22);
+        }
+
+        .button.effect2.effect2:after,
+        .button.effect2.effect2:before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background-color: rgb(2, 241, 230);
+            transition: all 0.3s ease;
+            transform: scale(0.85);
+        }
+
+        .button.effect2.effect2:hover:before {
+            top: 0;
+            transform: scale(1);
+        }
+
+        .button.effect2.effect2:hover:after {
+            transform: scale(1);
+        }
+
+        .button.effect3 {
+            color: lightyellow;
+        }
+
+        .button.effect3.effect3::after,
+        .button.effect3.effect3::before {
+            content: "";
+            display: block;
+            position: absolute;
+            width: 20%;
+            height: 20%;
+            border: 2px solid;
+            transition: all 0.6s ease;
+            border-radius: 2px;
+        }
+
+        .button.effect3.effect3::after {
+            bottom: 0;
+            right: 0;
+            border-top-color: transparent;
+            border-left-color: transparent;
+            border-bottom-color: lightcoral;
+            border-right-color: lightcoral;
+        }
+
+        .button.effect3.effect3::before {
+            top: 0;
+            left: 0;
+            border-bottom-color: transparent;
+            border-right-color: transparent;
+            border-top-color: lightcoral;
+            border-left-color: lightcoral;
+        }
+
+        .button.effect3.effect3:hover:after,
+        .button.effect3.effect3:hover:before {
+            border-bottom-color: lightcoral;
+            border-right-color: lightcoral;
+            border-top-color: lightcoral;
+            border-left-color: lightcoral;
+            width: 100%;
+            height: 100%;
+        }
+
+        .button.effect4 {
+            color: rgb(224, 224, 95);
+        }
+
+        .button.effect4.effect4:after,
+        .button.effect4.effect4:before {
+            content: "";
+            display: block;
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background-color: rgb(247, 74, 21);
+            transition: all 0.3s ease;
+            transform: scale(0.85);
+        }
+
+        .button.effect4.effect4:hover:before {
+            bottom: 0;
+            transform: scale(1);
+        }
+
+        .button.effect4.effect4:hover:after {
+            transform: scale(1);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        
+
+        <button class="button effect2">
+            Effect One
+        </button>
+
+
+        <button class="button effect3">
+            Effect Two
+        </button>
+
+        <button class="button effect4">
+            Effect Three
+        </button>
+
+    </div>
+</body>
+
+</html>
