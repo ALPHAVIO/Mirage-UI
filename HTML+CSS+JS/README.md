@@ -18,6 +18,7 @@
     -   [Snake Border Button Animation](Buttons/SnakeBorderButtonAnimation)
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
     -   [Glowing Gradient](Buttons/Glowinggradient)
+    -   [Lines Button Animation](Buttons/LinesButtonAnimation)
     -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
     -   [Thin Button](Buttons/ThinButton)
