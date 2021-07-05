@@ -24,6 +24,7 @@
     -   [Thin Button](Buttons/ThinButton)
     -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
     -   [Neumorphic Style Button](Buttons/NeumorphicStyleButton)
+    -   [Expand Button Animation](Buttons/expand-button)
 
 -   [Cards](Cards)
 
