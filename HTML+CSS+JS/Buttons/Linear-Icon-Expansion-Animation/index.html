@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+</head>
+
+<body>
+<div class="wrapper">
+    <div class="menu-object">
+        <ul class="toggle">
+            <li class="ico01 normalico"></li>
+            <li class="move-ico ico02">
+                <a href="" class="link link01">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+            <li class="move-ico ico03">
+                <a href="" class="link link02">
+                    <i class="fab fa-google"></i>
+                </a>
+            </li>
+            <li class="move-ico ico04">
+                <a href="" class="link link03">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+            <li class="move-ico ico05">
+                <a href="" class="link link04">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://kit.fontawesome.com/dd8c49730d.js"></script>
+
+<script>
+    function toggle() {
+        $('.ico01').click(function () {
+            $('.wrapper').toggleClass('active');
+        })
+    }
+    toggle();
+</script>
+</body>
+</html>
