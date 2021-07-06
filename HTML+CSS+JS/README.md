@@ -50,6 +50,10 @@
 
     -   [Star Rating System](Forms/StarRatingSystem)
     -   [Non-responsive Sliding Animation Form](Forms/Non-responsiveSlidingAnimationForm)
+    
+-   [Icon-Expansion-Components](Icon-Expansion-Components)
+
+    -   [Linear-Icon-Expansion-Animation](Icon-Expansion-Components/Linear-Icon-Expansion-Animation)
 
 -   [Image-Animations](Image-Animations)
 
