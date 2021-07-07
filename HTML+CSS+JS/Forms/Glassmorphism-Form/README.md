@@ -1,6 +1,7 @@
 ## Glassmorphism Animation Login Form.
 It can be used in any website which requires login or sign up
-functionality.It will enhance the ui of your website.
+functionality.It will enhance the ui of your website.The form
+isn't responsive.
 
 ## Demo 
 
