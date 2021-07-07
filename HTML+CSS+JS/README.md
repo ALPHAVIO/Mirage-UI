@@ -54,6 +54,7 @@
 
     -   [Star Rating System](Forms/StarRatingSystem)
     -   [Non-responsive Sliding Animation Form](Forms/Non-responsiveSlidingAnimationForm)
+    -   [Glassmorphism Animation Form](Forms/Glassmorphism-Form)
 
 -   [Image-Animations](Image-Animations)
 
