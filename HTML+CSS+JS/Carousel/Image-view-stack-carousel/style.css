@@ -1,0 +1,215 @@
+html {
+    box-sizing: border-box;
+}
+
+:root {
+    --shadow: 5px 5px rgba(204, 37, 104, 0.4),
+        10px 10px #151313, 15px 15px #544949,
+        20px 20px #272521, 25px 25px #6d6a6a;
+    --bg: #111;
+    --color: #fff;
+}
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-size: 1rem;
+    line-height: 1.25;
+    background-color: var(--bg);
+    display: flex;
+}
+
+.grid {
+    width: 100%;
+    max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.grid-block {
+    width: 50%;
+    min-height: 11.25rem;
+    padding: 1rem;
+}
+.image-grid .tile-link:hover .tile-img {
+    top: -1rem;
+    left: -1rem;
+}
+
+.image-grid .tile-img {
+    position: relative;
+    top: 0;
+    left: 0;
+    transition-property: opacity, top, left, box-shadow;
+}
+
+.tile-link {
+    display: block;
+}
+
+.tile-link:hover .tile-img {
+    opacity: 1;
+}
+
+.tile-link:hover .tile-img-link {
+    display: block;
+}
+
+.tile-link:hover .tile-img-link:hover .tile-img {
+    opacity: 0.5;
+}
+
+.tile-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.125s;
+    transition-timing-function: ease-in;
+}
+
+.tile-link:hover .tile-img1 {
+    box-shadow: var(--shadow);
+}
+
+.tile-link:hover .tile-img2 {
+    box-shadow: var(--shadow);
+}
+
+.tile-link:hover .tile-img3 {
+    box-shadow: var(--shadow);
+}
+
+.tile-link:hover .tile-img4 {
+    box-shadow: var(--shadow);
+}
+
+.tile-link:hover .tile-img5 {
+    box-shadow: var(--shadow);
+}
+
+.tile-link:hover .tile-img6 {
+    box-shadow: var(--shadow);
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    background-color: var(--bg);
+    margin: 0;
+    height: 100vh;
+
+}
+
+.modal::before {
+    content: '';
+    position: absolute;
+    box-sizing: border-box;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg);
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.modal img {
+    width: 100%;
+    height: 100vh;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.modal-content {
+    position: relative;
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.close {
+    color: var(--color);
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mySlides {
+    display: none;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.prev,
+.next {
+    cursor: pointer;
+    position: fixed;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    color: var(--color);
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev:hover,
+.next:hover {
+    background-color: #333;
+}
+
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+.caption-container {
+    text-align: center;
+    background-color: black;
+    padding: 2px 16px;
+    color: white;
+}

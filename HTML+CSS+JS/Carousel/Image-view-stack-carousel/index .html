@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+ 
+</head>
+
+<body>
+    <div class="grid image-grid">
+
+        <div class="grid-block" onclick="openModal(); currentSlide(1)">
+            <div class="tile">
+                <a class="tile-link" href="#">
+                    <img class="tile-img tile-img1" src="1.jpeg" alt="Image">
+                </a>
+            </div>
+        </div>
+
+        <div class="grid-block" onclick="openModal(); currentSlide(2)">
+            <div class="tile">
+                <a class="tile-link" href="#">
+                    <img class="tile-img tile-img2" src="2.jpeg" alt="Image">
+                </a>
+            </div>
+        </div>
+
+        <div class="grid-block" onclick="openModal(); currentSlide(3)"">
+            <div class=" tile">
+            <a class="tile-link" href="#">
+                <img class="tile-img tile-img3" src="3.jpeg" alt="Image">
+            </a>
+        </div>
+    </div>
+
+    <div class="grid-block" onclick="openModal(); currentSlide(4)"">
+            <div class=" tile">
+        <a class="tile-link" href="#">
+            <img class="tile-img tile-img4" src="4.jpeg" alt="Image">
+        </a>
+    </div>
+    </div>
+
+    <div class="grid-block" onclick="openModal(); currentSlide(5)"">
+            <div class=" tile">
+        <a class="tile-link" href="#">
+            <img class="tile-img tile-img5" src="5.jpeg" alt="Image">
+        </a>
+    </div>
+    </div>
+
+    <div class="grid-block" onclick="openModal(); currentSlide(6)"">
+            <div class=" tile">
+        <a class="tile-link" href="#">
+            <img class="tile-img tile-img6" src="6.jpeg" alt="Image">
+        </a>
+    </div>
+    </div>
+    </div>
+
+    <div id="myModal" class="modal">
+
+        <div class="modal-content">
+            <span class="close cursor" onclick="closeModal()">&times;</span>
+            <div class="mySlides">
+                <div class="numbertext">1 / 6</div>
+                <img src="1.jpeg">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 6</div>
+                <img src="2.jpeg">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">3 / 6</div>
+                <img src="3.jpeg">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">4 / 6</div>
+                <img src="4.jpeg">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">5 / 6</div>
+                <img src="5.jpeg">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">6 / 6</div>
+                <img src="6.jpeg">
+            </div>
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+            <script>
+
+                function openModal() {
+                    document.getElementById("myModal").style.display = "inherit";
+                    document.body.style.overflow = "hidden";
+                }
+
+                function closeModal() {
+                    document.getElementById("myModal").style.display = "none";
+                }
+
+                var slideIndex = 1;
+                showSlides(slideIndex);
+
+                function plusSlides(n) {
+                    showSlides(slideIndex += n);
+                }
+
+                function currentSlide(n) {
+                    showSlides(slideIndex = n);
+                }
+
+                function showSlides(n) {
+                    var i;
+                    var slides = document.getElementsByClassName("mySlides");
+                    var dots = document.getElementsByClassName("demo");
+                    if (n > slides.length) { slideIndex = 1 }
+                    if (n < 1) { slideIndex = slides.length }
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";
+                    }
+                    for (i = 0; i < dots.length; i++) {
+                        s[i].className = dots[i].className.replace(" active", "");
+                    }
+                    slides[slideIndex - 1].style.display = "block";
+                }
+            </script>
+</body>
+
+</html>
