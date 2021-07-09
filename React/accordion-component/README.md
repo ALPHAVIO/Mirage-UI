@@ -4,13 +4,7 @@ Accordion component in React using react-hooks and styled-components.
 ## Demo -
 
 <div align="center">
-
-
-
-https://user-images.githubusercontent.com/64632969/125021253-e4e79d80-e097-11eb-9e2e-06b5c1b3de2a.mp4
-
-
-
+https://user-images.githubusercontent.com/64632969/125021448-44de4400-e098-11eb-8084-edffe595c4e4.mp4
 </div>
 
 ## Environment Setup-
