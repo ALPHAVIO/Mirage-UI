@@ -5,7 +5,11 @@ Accordion component in React using react-hooks and styled-components.
 
 <div align="center">
 
-https://user-images.githubusercontent.com/69676297/123072101-e0ce4580-d432-11eb-9242-ff7451bd977b.mp4
+
+
+https://user-images.githubusercontent.com/64632969/125021253-e4e79d80-e097-11eb-9e2e-06b5c1b3de2a.mp4
+
+
 
 </div>
 
