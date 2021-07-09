@@ -1,5 +1,3 @@
-
-import './accordion.css';
 import React, { useState } from 'react';
 
 function Accordion({title,content}) {
