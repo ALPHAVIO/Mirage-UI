@@ -7,4 +7,6 @@
 
 -   [Navigation Bar](Navigation-Bar)  
     - [TopDownAnimation-ResponsiveNavbar](Navigation-Bar/TopDownAnimation-ResponsiveNavbar)
+
+-   [Accordion Component](accordion-component)
     
