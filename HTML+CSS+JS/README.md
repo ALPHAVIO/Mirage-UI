@@ -69,6 +69,7 @@
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Modal Overlay Navbar](Navigation-Bar/Modal-Overlay-Navbar)
+    -   [Hover Effect Navbar](Navigation-Bar/Hover-Effect-Navbar)
 
 -   [Notifications](Notifications)
 
