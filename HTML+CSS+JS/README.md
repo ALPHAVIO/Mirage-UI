@@ -70,6 +70,7 @@
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Modal Overlay Navbar](Navigation-Bar/Modal-Overlay-Navbar)
     -   [Navbar Bubble Animation](Navigation-Bar/Navbar-Bubble-Animation)
+    -   [Reveal Page On Hover Navbar](Navigation-Bar/Reveal-Page-On-Hover-Navbar)
 
 -   [Notifications](Notifications)
 
