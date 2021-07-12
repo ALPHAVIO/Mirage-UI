@@ -1,4 +1,4 @@
-## Hover Effect in Navbar Component
+## Reveal Page On Hover Navbar Component
 
 
 ## Demo -
