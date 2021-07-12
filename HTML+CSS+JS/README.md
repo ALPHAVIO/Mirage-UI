@@ -69,6 +69,7 @@
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Modal Overlay Navbar](Navigation-Bar/Modal-Overlay-Navbar)
+    -   [Navbar Bubble Animation](Navigation-Bar/Navbar-Bubble-Animation)
 
 -   [Notifications](Notifications)
 
