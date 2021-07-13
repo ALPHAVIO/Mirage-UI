@@ -3,7 +3,7 @@
 
 ## Demo -
 
-![auto scroll background](https://user-images.githubusercontent.com/65714751/125491342-1114cbfb-9a40-4506-83d5-f836c927a938.gif)
+![auto scroll background](https://user-images.githubusercontent.com/65714751/125505466-46f24b0a-d479-4b48-a10b-ecc8ff5740a2.gif)
 
 
 ## Setup instructions
