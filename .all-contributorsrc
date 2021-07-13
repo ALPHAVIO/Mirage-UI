@@ -120,6 +120,26 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ujju20",
+      "name": "Ujjawal Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64632969?v=4",
+      "profile": "https://github.com/ujju20",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Khushi-agarwal",
+      "name": "Khushi Agarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76625662?v=4",
+      "profile": "https://github.com/Khushi-agarwal",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

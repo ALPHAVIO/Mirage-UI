@@ -1,0 +1,131 @@
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: arial;
+  font-size: 16px;
+  margin: 0;
+  background: linear-gradient(
+    to right bottom,
+    #ff7c01 50%,
+    rgba(54, 255, 4, 0.94) 100%
+  );
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 100vh;
+}
+
+.tilt-box-wrap {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  transition: all 0.6s ease-out;
+  perspective: 1000px;
+}
+.tilt-box-wrap:hover {
+  transition: all 0.3s linear;
+  /* transform: scale(1.1); */
+}
+.tilt-box {
+  width: 100%;
+  height: 100%;
+  background: rgba(246, 65, 65, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  color: rgb(21, 255, 0);
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: all 0.6s ease-out;
+  transform: rotateX(0deg) rotateY(0deg);
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
+.tilt-box strong {
+  transform: translateZ(40px);
+}
+.t_over {
+  width: 33.333%;
+  height: 33.333%;
+  position: absolute;
+  z-index: 1;
+}
+
+.t_over:nth-child(1) {
+  left: 0;
+  top: 0;
+}
+.t_over:nth-child(2) {
+  left: 33.333%;
+  top: 0;
+}
+.t_over:nth-child(3) {
+  left: 66.666%;
+  top: 0;
+}
+.t_over:nth-child(4) {
+  left: 0;
+  top: 33.333%;
+}
+.t_over:nth-child(5) {
+  left: 33.333%;
+  top: 33.333%;
+}
+.t_over:nth-child(6) {
+  left: 66.666%;
+  top: 33.333%;
+}
+.t_over:nth-child(7) {
+  left: 0;
+  top: 66.666%;
+}
+.t_over:nth-child(8) {
+  left: 33.333%;
+  top: 66.666%;
+}
+.t_over:nth-child(9) {
+  left: 66.666%;
+  top: 66.666%;
+}
+.t_over:nth-child(1):hover ~ .tilt-box {
+  transform: rotateX(-15deg) rotateY(15deg);
+}
+.t_over:nth-child(2):hover ~ .tilt-box {
+  transform: rotateX(-15deg) rotateY(0deg);
+}
+.t_over:nth-child(3):hover ~ .tilt-box {
+  transform: rotateX(-15deg) rotateY(-15deg);
+}
+.t_over:nth-child(4):hover ~ .tilt-box {
+  transform: rotateX(0deg) rotateY(15deg);
+}
+.t_over:nth-child(5):hover ~ .tilt-box {
+  transform: rotateX(0deg) rotateY(0deg);
+}
+.t_over:nth-child(6):hover ~ .tilt-box {
+  transform: rotateX(0deg) rotateY(-15deg);
+}
+.t_over:nth-child(7):hover ~ .tilt-box {
+  transform: rotateX(15deg) rotateY(15deg);
+}
+.t_over:nth-child(8):hover ~ .tilt-box {
+  transform: rotateX(15deg) rotateY(0deg);
+}
+.t_over:nth-child(9):hover ~ .tilt-box {
+  transform: rotateX(15deg) rotateY(-15deg);
+}
