@@ -36,6 +36,7 @@
     -   [Flip Card Animation on Hover](Cards/FlipCardAnimation)
     -   [Animated Card Stack on Hover](Cards/AnimatedCardStacksAnimation)
     -   [Tilt-hover-effect](Cards/Tilt-hover-effect)
+    -   [Image-hover-split-effect](Cards/Image-hover-split-effect)
 
 -   [Carousels](Carousel)
 
