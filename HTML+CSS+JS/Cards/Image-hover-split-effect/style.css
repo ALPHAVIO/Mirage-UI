@@ -1,0 +1,55 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+  position:absolute; 
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  overflow:hidden; 
+  display:flex; 
+}
+.img{
+  width:250px; 
+  height:250px; 
+  transition:.3s; 
+}
+.one{
+  background:url("Assests/coder.jpg") center / cover; 
+  z-index:-1;
+  transform:translateX(125px);
+  clip-path:polygon(50% 0, 65% 50%, 50% 100%, 0% 100%, 0 50%, 0 0);
+}
+.two{
+  background:url("Assests/coder.jpg") center / cover; 
+ clip-path:polygon(100% 0, 100% 50%, 100% 100%, 50% 100%, 65% 50%, 50% 0);
+ transform:translateX(-125px);
+}
+.text{
+  position:absolute; 
+  right:35%;
+  top:25%;
+  width:0; 
+  height:150px; 
+  background:#fff; 
+  transition:.2s ease;
+  box-shadow:0 5px 10px rgba(0,0,0,.1);
+  overflow:hidden; 
+  font-family:'Poppins', sans-serif;
+  padding:1rem .5rem; 
+}
+.text p{
+  color:#bfbfbf; 
+  margin:.5rem 0; 
+}
+.container:hover  .one{
+  transform:translateX(100px);
+}
+.container:hover .two{
+  transform:translateX(-100px);
+}
+.container:hover  .text{
+  width:280px; 
+}
