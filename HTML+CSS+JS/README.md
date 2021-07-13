@@ -13,6 +13,7 @@
     -   [Leaves Motion Background Effect](Background/LeavesMotionBackgroundEffect)
     -   [Zig Zag Cut Design](Background/Zig-Zag-Cut-Design)
     -   [Slide Down Component](Background/Slide-Down-Animation)
+    -   [Auto Scrolling Background](Background/Auto-Scrolling-Background)
 
 -   [Buttons](Buttons)
 
