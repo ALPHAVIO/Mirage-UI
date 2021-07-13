@@ -35,6 +35,7 @@
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
     -   [Flip Card Animation on Hover](Cards/FlipCardAnimation)
     -   [Animated Card Stack on Hover](Cards/AnimatedCardStacksAnimation)
+    -   [Image-hover-split-effect](Cards/Image-hover-split-effect)
 
 -   [Carousels](Carousel)
 
