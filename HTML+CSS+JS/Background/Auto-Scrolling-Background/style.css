@@ -24,7 +24,7 @@ body {
 
 .sliding-background {
     z-index: -1;
-  background: url("../../../assets/MUI\ Logo.png")
+  background: url("./assets/MUI\ Logo.png")
   , linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
   repeat;
   background-blend-mode: overlay;
