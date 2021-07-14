@@ -2,8 +2,7 @@
 
 
 ## Demo -
-
-![auto scroll background](https://user-images.githubusercontent.com/65714751/125505466-46f24b0a-d479-4b48-a10b-ecc8ff5740a2.gif)
+![auto scroll background](https://user-images.githubusercontent.com/65714751/125678867-9d4cff52-f197-4ecd-9351-81853395e8a3.gif)
 
 
 ## Setup instructions
