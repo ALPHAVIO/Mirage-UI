@@ -1,0 +1,26 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.wrapper
+{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(96, 168, 202, 0.301);
+
+}
+.rotate {
+  animation: rotation 80s infinite linear;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
