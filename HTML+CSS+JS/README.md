@@ -90,4 +90,7 @@
     -   [Vertical Timeline](Timelines/VerticalTimeline)
     -   [TimeLineComponent](Timelines/TimeLineComponent)
     -   [Reading Progress Bar](Timelines/ReadingProgressBar)
-     
+ 
+-   [Footer](Footer)
+
+    -   [Bouncing Animation](Footer/Bouncing-Animation)
