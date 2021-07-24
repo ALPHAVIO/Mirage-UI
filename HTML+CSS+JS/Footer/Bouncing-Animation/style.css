@@ -1,0 +1,130 @@
+body {
+  background: #94bbc9;
+  margin: 0px;
+  padding: 0px;
+}
+.content {
+  height: 85vh;
+  width: 100vw;
+}
+
+.swing {
+  transition: all 0.1s ease;
+}
+@-webkit-keyframes swing {
+  15% {
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+  }
+  30% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+  50% {
+    -webkit-transform: translateY(5px);
+    transform: translateY(5px);
+  }
+  65% {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+  }
+  80% {
+    -webkit-transform: translateY(3px);
+    transform: translateY(3px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes swing {
+    15% {
+        -webkit-transform: translateY(10px);
+        transform: translateY(10px);
+      }
+      30% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+      }
+      50% {
+        -webkit-transform: translateY(5px);
+        transform: translateY(5px);
+      }
+      65% {
+        -webkit-transform: translateY(-5px);
+        transform: translateY(-5px);
+      }
+      80% {
+        -webkit-transform: translateY(3px);
+        transform: translateY(3px);
+      }
+      100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+      }
+}
+.swing:hover {
+  -webkit-animation: swing 1s ease;
+  animation: swing 1s ease;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+.svg-inline--fa {
+  vertical-align: -0.2em;
+}
+
+.rounded-social-buttons {
+  text-align: center;
+  background-color: rgb(146, 144, 144);
+  width: 100vw;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.rounded-social-buttons .social-button {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  width: 3.125rem;
+  height: 3.125rem;
+  border: 0.125rem solid transparent;
+  padding: 0;
+  text-decoration: none;
+  text-align: center;
+  color: #fefefe;
+  font-size: 1.5625rem;
+  font-weight: normal;
+  line-height: 2em;
+  border-radius: 1.6875rem;
+  transition: all 0.5s ease;
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.rounded-social-buttons .fa-twitter,
+.fa-facebook-f,
+.fa-linkedin,
+.fa-youtube,
+.fa-instagram {
+  font-size: 25px;
+}
+
+.rounded-social-buttons .social-button.facebook {
+  background: #3b5998;
+}
+
+.rounded-social-buttons .social-button.twitter {
+  background: #55acee;
+}
+
+.rounded-social-buttons .social-button.linkedin {
+  background: #007bb5;
+}
+
+.rounded-social-buttons .social-button.youtube {
+  background: #bb0000;
+}
+
+.rounded-social-buttons .social-button.instagram {
+  background: #125688;
+}
