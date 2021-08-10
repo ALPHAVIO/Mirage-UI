@@ -23,6 +23,7 @@
     -   [Icon-hover-expansion](Buttons/Icon-hover-expansion)
     -   [Linear-Icon-Expansion-Animation](Buttons/Linear-Icon-Expansion-Animation)
     -   [Lines Button Animation](Buttons/LinesButtonAnimation)
+    -   [Download-button](Buttons/Download-button)
     -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
     -   [Thin Button](Buttons/ThinButton)
