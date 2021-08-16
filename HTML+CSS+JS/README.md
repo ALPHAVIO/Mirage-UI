@@ -43,6 +43,7 @@
     -   [Animated Card Stack on Hover](Cards/AnimatedCardStacksAnimation)
     -   [Tilt-hover-effect](Cards/Tilt-hover-effect)
     -   [Image-hover-split-effect](Cards/Image-hover-split-effect)
+    -   [Card Hover](Cards/Card_hover_Animation)
 
 -   [Carousels](Carousel)
 
