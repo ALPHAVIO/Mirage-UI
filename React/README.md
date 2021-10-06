@@ -14,3 +14,4 @@
 -   [Card](Card)  
     - [Rotating Card / Image](Card/rotating-image-or-card)
     - [Information Card](Card/info-card)
+    - [Animated Card](Card/animated-card)
