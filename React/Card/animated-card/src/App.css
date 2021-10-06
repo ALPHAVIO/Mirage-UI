@@ -1,32 +1,33 @@
 :root {
   /* Card bg color and text color when not hovered*/
   --bg-color: #212121;
-  --primary-color: #F6F6F6;
-
+  --primary-color: #f6f6f6;
 
   /* The following are colors for the cards when user hovers*/
-  
-  --card-color-one: #3F0713;
-  --card-bg-color-one: #FFD384;
 
-  --card-color-two: #2A0944;
-  --card-bg-color-two : #C1FFD7;
+  --card-color-one: #3f0713;
+  --card-bg-color-one: #ffd384;
 
-  --card-color-three: #2C394B;
-  --card-bg-color-three: #F6C6EA;
+  --card-color-two: #2a0944;
+  --card-bg-color-two: #c1ffd7;
+
+  --card-color-three: #2c394b;
+  --card-bg-color-three: #f6c6ea;
 
   --card-color-four: #362222;
   --card-bg-color-five: #ffab739f;
 }
 
 html {
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-*, *::after, ::before {
+*,
+*::after,
+::before {
   box-sizing: inherit;
   padding: 0;
-  margin: 0;  
+  margin: 0;
 }
 
 body {
@@ -62,7 +63,7 @@ body {
   position: relative;
   top: 0;
   left: 0;
-  box-shadow:  0px 0px 5px rgba(0,  0, 0, 0.7);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
 
   cursor: pointer;
   border-radius: 0.5rem;
@@ -80,7 +81,7 @@ body {
 /* After an Before */
 .card-wrapper::after {
   position: absolute;
-  content: '';
+  content: "";
   right: 50%;
   left: 50%;
   width: 0%;
@@ -95,10 +96,9 @@ body {
   -o-transition: all 0.5s ease-in-out;
 }
 
-
 .card-wrapper::before {
   position: absolute;
-  content: '';
+  content: "";
   left: 50.1%;
   width: 0%;
   height: 0%;
@@ -123,9 +123,8 @@ body {
   width: 50.1%;
 }
 
-
 .card-wrapper:hover {
-  box-shadow:  0px 0px 10px rgba(0,  0, 0, 0.7);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
 
   transform: scale(1.05);
   -webkit-transform: scale(1.05);
@@ -138,25 +137,26 @@ body {
   color: var(--card-color-one);
 }
 
-.card-wrapper:nth-child(1):hover:after,.card-wrapper:nth-child(1):hover:before  {
+.card-wrapper:nth-child(1):hover:after,
+.card-wrapper:nth-child(1):hover:before {
   background: var(--card-bg-color-one);
 }
-
 
 .card-wrapper:nth-child(2):hover {
   color: var(--card-color-two);
 }
 
-.card-wrapper:nth-child(2):hover:after,.card-wrapper:nth-child(2):hover:before  {
+.card-wrapper:nth-child(2):hover:after,
+.card-wrapper:nth-child(2):hover:before {
   background: var(--card-bg-color-two);
 }
-
 
 .card-wrapper:nth-child(3):hover {
   color: var(--card-color-three);
 }
 
-.card-wrapper:nth-child(3):hover:after,.card-wrapper:nth-child(3):hover:before  {
+.card-wrapper:nth-child(3):hover:after,
+.card-wrapper:nth-child(3):hover:before {
   background: var(--card-bg-color-three);
 }
 
@@ -164,7 +164,8 @@ body {
   color: var(--card-color-four);
 }
 
-.card-wrapper:nth-child(4):hover::after, .card-wrapper:nth-child(4):hover::before {
+.card-wrapper:nth-child(4):hover::after,
+.card-wrapper:nth-child(4):hover::before {
   background-color: var(--card-bg-color-five);
 }
 
