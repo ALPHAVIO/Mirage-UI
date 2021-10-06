@@ -4,7 +4,7 @@ Animated Card that fills with background color on hover
 ## Demo
 <div align="center">
 
-    ![Animated Card](React/Card/animated-card/src/Assets/Animated_Card_GIF.mp4)
+![Animated Card](React/Card/animated-card/src/Assets/Animated_Card_GIF.mp4)
 
 </div>
 
