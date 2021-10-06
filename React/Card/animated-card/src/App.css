@@ -1,0 +1,173 @@
+:root {
+  /* Card bg color and text color when not hovered*/
+  --bg-color: #212121;
+  --primary-color: #F6F6F6;
+
+
+  /* The following are colors for the cards when user hovers*/
+  
+  --card-color-one: #3F0713;
+  --card-bg-color-one: #FFD384;
+
+  --card-color-two: #2A0944;
+  --card-bg-color-two : #C1FFD7;
+
+  --card-color-three: #2C394B;
+  --card-bg-color-three: #F6C6EA;
+
+  --card-color-four: #362222;
+  --card-bg-color-five: #ffab739f;
+}
+
+html {
+  box-sizing: border-box; 
+}
+
+*, *::after, ::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;  
+}
+
+body {
+  background: #ecebeb;
+  color: var(--primary-color);
+  max-width: 900px;
+  margin: 1rem auto;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+.card-wrapper {
+  background-color: var(--primary-color);
+  color: var(--bg-color);
+  margin: 1.5rem;
+  min-width: 200px;
+  width: 300px;
+  height: 400px;
+  border-radius: 1rem;
+  transition: all 0.3s ease-in;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  top: 0;
+  left: 0;
+  box-shadow:  0px 0px 5px rgba(0,  0, 0, 0.7);
+
+  cursor: pointer;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+  z-index: 1;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -ms-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+}
+
+/* After an Before */
+.card-wrapper::after {
+  position: absolute;
+  content: '';
+  right: 50%;
+  left: 50%;
+  width: 0%;
+  height: 0%;
+  z-index: -1;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+
+.card-wrapper::before {
+  position: absolute;
+  content: '';
+  left: 50.1%;
+  width: 0%;
+  height: 0%;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  z-index: -1;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.card-wrapper:hover::after {
+  height: 100%;
+  width: 50%;
+}
+
+.card-wrapper:hover::before {
+  height: 100%;
+  left: 0%;
+  width: 50.1%;
+}
+
+
+.card-wrapper:hover {
+  box-shadow:  0px 0px 10px rgba(0,  0, 0, 0.7);
+
+  transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+}
+
+.card-wrapper:nth-child(1):hover {
+  color: var(--card-color-one);
+}
+
+.card-wrapper:nth-child(1):hover:after,.card-wrapper:nth-child(1):hover:before  {
+  background: var(--card-bg-color-one);
+}
+
+
+.card-wrapper:nth-child(2):hover {
+  color: var(--card-color-two);
+}
+
+.card-wrapper:nth-child(2):hover:after,.card-wrapper:nth-child(2):hover:before  {
+  background: var(--card-bg-color-two);
+}
+
+
+.card-wrapper:nth-child(3):hover {
+  color: var(--card-color-three);
+}
+
+.card-wrapper:nth-child(3):hover:after,.card-wrapper:nth-child(3):hover:before  {
+  background: var(--card-bg-color-three);
+}
+
+.card-wrapper:nth-child(4):hover {
+  color: var(--card-color-four);
+}
+
+.card-wrapper:nth-child(4):hover::after, .card-wrapper:nth-child(4):hover::before {
+  background-color: var(--card-bg-color-five);
+}
+
+.card-wrapper .card-text {
+  text-align: justify;
+}
