@@ -44,7 +44,7 @@
     -   [Tilt-hover-effect](Cards/Tilt-hover-effect)
     -   [Image-hover-split-effect](Cards/Image-hover-split-effect)
     -   [Card Hover](Cards/Card_hover_Animation)
-    -   [Animation on Hover card](Cards/AnimationOnHoverCard)
+    -   [Card with Text Animation on Hover](Cards/CardWithTextAnimationOnHover)
 
 -   [Carousels](Carousel)
 
