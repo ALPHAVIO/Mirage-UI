@@ -1,4 +1,4 @@
-# Animation On Hover Card
+# Card with Text Animation on Hover
 
 ## Demo-
 
