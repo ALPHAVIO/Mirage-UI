@@ -4,7 +4,7 @@ Animated Card that fills with background color on hover
 ## Demo
 <div align="center">
 
-![Animated Card](https://github.com/bharati-21/Mirage-UI/blob/92dcf5a4d9498152b33aa9146f294743a2fab22c/React/Card/animated-card/src/Assets/Animated_Card_GIF.mp4)
+![Animated Card](https://github.com/bharati-21/Mirage-UI/React/Card/animated-card/src/Assets/Animated_Card_GIF.mp4)
 
 </div>
 
