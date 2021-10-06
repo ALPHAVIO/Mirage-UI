@@ -8,29 +8,6 @@ function Card(props) {
     const {cardTitle, icon} = props.card;
     const index = props.index;
 
-    // const [hover, setHover] = useState(false);
-
-    // let cardStlye = {
-    //     color: bgColor,
-    //     backgroundColor: primaryColor
-    // };
-
-    // function toggleHover(e) {
-    //     setHover(!hover);  
-        
-    // }
-
-    // if(hover) {
-    //     cardStlye = colors[index];
-    // }
-    // else {
-    //     cardStlye = {
-    //         color: bgColor,
-    //         backgroundColor: primaryColor
-    //     };
-    // }  
-
-
     return (
         <div className="card-wrapper">
                 <h1 className="card-head">{cardTitle}</h1>
