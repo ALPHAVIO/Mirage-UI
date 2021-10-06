@@ -1,11 +1,11 @@
 import './App.css';
 
-import {AnimatedCards} from "./AnimatedCards";
+import { AnimatedCards } from "./AnimatedCards";
 
 function App() {
   return (
     <div className="App">
-      <AnimatedCards/>
+      <AnimatedCards />
     </div>
   );
 }

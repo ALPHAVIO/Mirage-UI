@@ -1,7 +1,7 @@
 import './App.css';
-import {faAtom, faCalculator, faHistory, faGlobe} from '@fortawesome/free-solid-svg-icons';
+import { faAtom, faCalculator, faHistory, faGlobe } from '@fortawesome/free-solid-svg-icons';
 
-import {Card} from './Card';
+import { Card } from './Card';
 
 const cardTitles = [
     {
@@ -26,7 +26,7 @@ function AnimatedCards() {
     return (
         <div className="cards-container container">
             {
-                cardTitles.map((card, index)=> {
+                cardTitles.map((card, index) => {
                     return <Card key={card.cardTitle + "-" + index} card={card} index={index}></Card>
                 })
             }
@@ -34,4 +34,4 @@ function AnimatedCards() {
     )
 }
 
-export {AnimatedCards};
+export { AnimatedCards };
