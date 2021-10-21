@@ -4,9 +4,7 @@ Animates Profile Card Component
 ## Demo -
 
 <!-- <div align="center">
-
-![profile card](https://user-images.githubusercontent.com/68388581/138254819-2d03a231-15c4-4f86-9cf4-84039c57f7b8.gif)
-
+![Animated Profile Card - Google Chrome 2021-10-21 15-00-45](https://user-images.githubusercontent.com/68388581/138255020-6c98b5ba-e500-4575-b9bc-fdd5287602e4.gif)
 </div> -->
 
 ## Environment Setup-
