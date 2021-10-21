@@ -1,5 +1,5 @@
 # Animated Profile Card
-Animates Profile Card Component
+Animates Profile Card Component that shows social-media links on card-hover.
 
 ## Demo -
 
