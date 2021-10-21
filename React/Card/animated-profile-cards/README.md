@@ -5,7 +5,7 @@ Animates Profile Card Component
 
 <!-- <div align="center">
 
-![profile card]()
+![profile card](https://user-images.githubusercontent.com/68388581/138254819-2d03a231-15c4-4f86-9cf4-84039c57f7b8.gif)
 
 </div> -->
 
