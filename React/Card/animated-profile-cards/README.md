@@ -2,12 +2,7 @@
 Animates Profile Card Component that shows social-media links on card-hover.
 
 ## Demo -
-
-<div align="center">
-![profile-card] (https://user-images.githubusercontent.com/68388581/138260932-42ccbbd1-c9a0-4887-a3a5-d11be3fa12f3.mp4)
-</div> 
-
-
+https://user-images.githubusercontent.com/68388581/138270490-ef793387-2e8c-4be9-8672-1008d35ee9a7.mp4
 
 ## Environment Setup-
 
