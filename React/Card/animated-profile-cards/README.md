@@ -4,7 +4,7 @@ Animates Profile Card Component
 ## Demo -
 
 <div align="center">
-  https://user-images.githubusercontent.com/68388581/138260592-7f0962d9-55cb-4e5d-a13a-bfd422f91004.mp4
+![profile-card] (https://user-images.githubusercontent.com/68388581/138260932-42ccbbd1-c9a0-4887-a3a5-d11be3fa12f3.mp4)
 </div> 
 
 
